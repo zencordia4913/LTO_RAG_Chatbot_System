@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "lto-rag-reviewer"
-version = "0.3.0"
+version = "0.4.0"
 description = ""
 authors = ["Jon Marco Francisco <jnmrco08@gmail.com>"]
 readme = "README.md"
@@ -58,7 +58,7 @@ exclude = '''  # Specify the files/dirs that should be ignored by the black form
 
 [tool.commitizen]
 name = "cz_conventional_commits"
-version = "0.3.0"
+version = "0.4.0"
 version_files = [
     "pyproject.toml:version",
     "__version__.py"
