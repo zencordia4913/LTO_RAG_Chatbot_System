@@ -30,4 +30,4 @@ jobs:
 
       - name: Run cz bump
         run: |
-          cz bump --dry-run
+          cz bump --yes --dry-run
