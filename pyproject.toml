@@ -22,6 +22,8 @@ langchain = "^0.3.13"
 gradio = "^5.9.1"
 sentence-transformers = "^3.3.1"
 langchain-community = "^0.3.13"
+requests = "^2.32.3"
+beautifulsoup4 = "^4.12.3"
 
 [tool.poetry.group.dev.dependencies]
 pre-commit = "^4.0.1"
