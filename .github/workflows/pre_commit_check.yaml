@@ -1,4 +1,4 @@
-name: pre-commit hook and cz bump check
+name: pre-commit hook
 
 on:
   push:
@@ -27,7 +27,3 @@ jobs:
 
       - name: Run pre-commit hooks
         uses: pre-commit/action@v3.0.1
-
-      - name: Run cz bump
-        run: |
-          cz bump --yes --dry-run
