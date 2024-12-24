@@ -1,4 +1,4 @@
-LTO Driver's Guide RAG Chatbot
+# LTO Driver's Guide RAG Chatbot
 
 ## Overview
 tbd
@@ -7,8 +7,6 @@ tbd
 - Python 3.10 and up are installed
 - Your ollama client must be running. For more information check: https://github.com/ollama/ollama
 - `Make` installed on your system and you are using WSL 2
-
-# Project Setup with Makefile
 
 ## Contributing
 To get started:
