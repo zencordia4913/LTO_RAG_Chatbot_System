@@ -21,7 +21,7 @@ install: create_venv
 	@echo "Installing all dependencies..."
 	$(POETRY) install
 	@echo "Installing pre-commit hooks..."
-	$(ENV_DIR)/bin/pre-commit install
+	/home/jeryl4913/lto_rag_reviewer/LTO_RAG/bin/pre-commit install
 
 install-no-dev: create_venv
 	@echo "Installing production dependencies (no dev)..."
