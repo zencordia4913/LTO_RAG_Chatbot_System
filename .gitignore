@@ -145,7 +145,10 @@ venv.bak/
 
 # mkdocs documentation
 /site
-
+# Ignore LTO_RAG folder (pyenv/venv inside)
+LTO_RAG/
+LTO_RAG/venv/
+LTO_RAG/.pyenv/
 # mypy
 .mypy_cache/
 .dmypy.json
