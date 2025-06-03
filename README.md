@@ -16,8 +16,10 @@ A Retrieval-Augmented Generation (RAG) chatbot system designed to answer questio
 ## Tech Stack
 
 - Python
+- OCR
 - SentenceTransformers (`all-MiniLM-L6-v2`)
 - FAISS
+- Llama-Index
 - OpenAI GPT-3.5 / GPT-4
 - Gradio
 - PyPDF2
