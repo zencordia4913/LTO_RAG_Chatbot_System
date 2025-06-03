@@ -4,6 +4,11 @@ A Retrieval-Augmented Generation (RAG) chatbot system designed to answer questio
 
 ---
 
+
+![RAG1 Overview](./RAG1.png)
+![RAG2 Overview_2](./RAG2.png)
+
+
 ## Features
 
 - **PDF-based Knowledge Base**: Parses official LTO documents into searchable chunks using sentence embeddings.
