@@ -9,6 +9,7 @@ A Retrieval-Augmented Generation (RAG) chatbot system designed to answer questio
 - **PDF-based Knowledge Base**: Parses official LTO documents into searchable chunks using sentence embeddings.
 - **Semantic Search with FAISS**: Retrieves top relevant document chunks based on user queries.
 - **Chatbot with GPT**: Uses OpenAI's GPT model to generate answers grounded in retrieved context.
+- **Query Transforms**: Reformulates or clarifies user input to improve retrieval accuracy and semantic matching.
 - **Gradio Interface**: Simple web interface for conversational interaction.
 
 ---
